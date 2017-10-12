@@ -1,4 +1,4 @@
-# Learning Android Layouting
+# Android Layouting
 ## List Layout
 * Creating Layout in JavaClass
 * Linear Layout Horizontal
